@@ -23,12 +23,31 @@ The sentences originate from Reddit's _r/ChangeMyView_ subreddit in the time spa
 They cover five topics: _abortion_, _climate change_, _gun control_, _minimum wage_ and _veganism_.
 The table below shows some examples.
 
-|                  topic                   | sentence                                                                                                                                                                    | stance label |
-|:----------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------:|
-|    There should be more gun control.     | It's the only country with a "2nd Amendment", yet 132 countries have a lower murder rate.                                                                                   |     Pro      |
-| Humanity needs to combat climate change. | The overhwelming evidence could be lies and you would never know because you're content to live your life as a giant appeal to authority.                                   |    Contra    |
-|            Vegans are right.             | It's all about finding a system that works for you.                                                                                                                         |   Neutral    |
-
+<table>
+<thead>
+<tr>
+<th align="center">topic</th>
+<th align="center">sentence</th>
+<th align="center">stance label</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">There should be more gun control.</td>
+<td align="left">It's the only country with a "2nd Amendment", yet 132 countries have a lower murder rate.</td>
+<td align="center">Pro</td>
+</tr>
+<tr>
+<td align="center">Humanity needs to combat climate change.</td>
+<td align="left">The overhwelming evidence could be lies and you would never know because you're content to live your life as a giant appeal to authority.</td>
+<td align="center">Contra</td>
+</tr>
+<tr>
+<td align="center">Vegans are right.</td>
+<td align="left">It's all about finding a system that works for you.</td>
+<td align="center">Neutral</td>
+</tr>
+</tbody></table>
 
 <br>
 
